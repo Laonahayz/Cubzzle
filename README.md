@@ -1,6 +1,9 @@
 <h1 style="font-size: 28px;">Cubzzle - Hololens 互動拼圖小遊戲</h1>
 <p>Cubzzle 是一款以 Unity 與 Hololens 製作的 MR（混合實境）立體拼圖小遊戲，使用者可透過空間定位與手勢操作，將散落的拼圖塊吸附回正確位置與角度，體驗空間中的互動組合與解謎樂趣。</p>
 
+<h2>執行平台</h2>
+<p>本遊戲僅提供HoloLens上運行。</p>
+
 <h2 style="font-size: 20px;">系統畫面展示</h2>
 <p>點擊圖片觀看展示影片</p>
 <a href="https://youtu.be/3NPTl1PyAAs">
