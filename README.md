@@ -5,6 +5,20 @@
 <p>本遊戲僅提供HoloLens上運行。</p>
 
 <h2 style="font-size: 20px;">系統畫面展示</h2>
+
+<h3 style="font-size: 16px;">遊戲畫面</h3>
+<table>
+  <tr>
+    <td><img src="Assets/CubezzleScreenshots/Cubezzle01.png" alt="畫面1" width="350" /></td>
+    <td><img src="Assets/CubezzleScreenshots/Cubezzle02.png" alt="畫面2" width="350" /></td>
+  </tr>
+  <tr>
+    <td><img src="Assets/CubezzleScreenshots/Cubezzle03.png" alt="畫面3" width="350" /></td>
+    <td><img src="Assets/CubezzleScreenshots/Cubezzle04.png" alt="畫面4" width="350" /></td>
+  </tr>
+</table>
+
+<h3 style="font-size: 16px;">展示影片</h3>
 <p>點擊圖片觀看展示影片</p>
 <a href="https://youtu.be/3NPTl1PyAAs">
   <img src="Assets/Cubezzle.png" alt="點擊觀看展示影片" width="600" />
