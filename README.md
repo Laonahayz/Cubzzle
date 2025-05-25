@@ -24,7 +24,7 @@
   <img src="Assets/Cubezzle.png" alt="點擊觀看展示影片" width="600" />
 </a>
 
-<h2>專案用途</h2>
+<h2>專案技術</h2>
 <p>
 本專案為 Hololens MR 應用開發練習作品，展示以下能力：
 </p>
